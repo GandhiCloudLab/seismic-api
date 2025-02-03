@@ -1,12 +1,12 @@
 # Seismic API
 
-In this documentation, lets explore how to access the seismic API.
+In this documentation, let’s explore how to access the seismic API.
 
 ## Get Access Token 
 
-Here we get the API Token through UI. (Need to find otherway to get it permanently).
+Here we get the API Token through UI. (Need to find other way to get it permanently).
 
-1. Acces this url in your broswer.
+1. Access this URL in your browser.
 
 https://developer.seismic.com/seismicsoftware/docs/authentication-1
 
@@ -16,7 +16,7 @@ https://developer.seismic.com/seismicsoftware/docs/authentication-1
 
 It shows the below page.
 
-4. Select the appropriate checkboxes for the requried permissions for token.
+4. Select the appropriate checkboxes for the required  permissions for token.
 5. Click on `Get Token`
 
 <img src="images/img-02.png">
@@ -28,7 +28,7 @@ It shows the below page.
 
 <img src="images/img-04.png">
 
-## Acces the APIs.
+## Access the APIs.
 
 Here is the list of APIs available.
 
