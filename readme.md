@@ -4,7 +4,7 @@ In this documentation, lets explore how to access the seismic API.
 
 ## Get Access Token 
 
-Here we get the API Token through UI. Needs to find otherway to get it permanently.
+Here we get the API Token through UI. (Need to find otherway to get it permanently).
 
 1. Acces this url in your broswer.
 
@@ -15,6 +15,7 @@ https://developer.seismic.com/seismicsoftware/docs/authentication-1
 <img src="images/img-01.png">
 
 It shows the below page.
+
 4. Select the appropriate checkboxes for the requried permissions for token.
 5. Click on `Get Token`
 
@@ -56,7 +57,7 @@ print(response.text)
 
 3. Run the python using `python seismic.py` command.
 
-4. You may get output like this 
+4. You may get output like this [output.json](./files/output.json)
 
 ```
 [
