@@ -40,7 +40,7 @@ https://developer.seismic.com/seismicsoftware/reference/reporting-contentsget
 import requests
 
 token = "xxxx"
-url = "https://api.seismic.com/reporting/v2/contents?limit=1"
+url = "https://api.seismic.com/reporting/v2/contents?limit=5"
 
 headers = {
     "Accept": "application/json",
